@@ -20,11 +20,11 @@
 
 |       Action            |                  Attendu                    |        Obtenu                |      Testeur  |
 | ---                     | ---                                         | ---                          | ---           |
-|   ajout valide          | l'observation doit etre ajoutée             |                              |    |
-|chaque règle refusée     |     Aucune observation enregistrée          |                              |     |
-|une recherche introuvable|       introuvable                           |                              |    |
-|chaque tri (pH croissant)|         tri succès                          |                              |    |
-|la synthèse              | affichage des statistiqyues de l'observation|                              |     |
-|un choix inconnu         |        Aucune observation enregistrée       |                              |     |
+|   ajout valide          | l'observation doit etre ajoutée             |                              |               |
+|chaque règle refusée     |     Aucune observation enregistrée          |                              |               |
+|une recherche introuvable|       introuvable                           |                              |               |
+|chaque tri (pH croissant)|         tri succès                          |                              |               |
+|la synthèse              | affichage des statistiqyues de l'observation|                              |               |
+|un choix inconnu         |        Aucune observation enregistrée       |                              |               |
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️

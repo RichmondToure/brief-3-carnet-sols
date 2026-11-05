@@ -2,8 +2,8 @@
 
 > Planifiez vous-même, puis tenez le tableau à jour. Une preuve : un commit, un test vert, un document.
 
-|               Tâche                                         |      Prévu         | Fait le   | Preuve   |
-| ---                                                         |     ---            | ---       | ---      |
+|               Tâche                                         |    Prévu   |  Fait le   |                   Preuve                    |
+| ---                                                         |     ---    | ---        | ---                                         |
 | Poste et dépôt prêts ; besoin compris ; documents commencés | 04-11-2026 |   03-11-2026|   81fbef9a2c828d1be50241bfb533247dc7be4e3c |
 | Fiche 2 : lire et écrire le JSON                            | 04-11-2026 |   03-11-2026|   81fbef9a2c828d1be50241bfb533247dc7be4e3c |
 | Fiche 2 : lire et écrire le JSON                            | 04-11-2026 |             |                                            |

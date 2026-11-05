@@ -21,7 +21,7 @@ function afficherAccueil(){
 
 function afficherMenu() {
   console.log('');
-  console.log('------------------------------MENU------------------');
+  console.log('-----------------------MENU------------------');
   console.log('1. Ajouter une observation');
   console.log('2. Lister les observations');
   console.log('3. Rechercher (point, parcelle, texture)');
