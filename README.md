@@ -48,7 +48,7 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 -Le carnet n'enregistre pas le moment de l'observation.
 -La texture et l'etat d'humidité ne sont pas mesurables.
 -Le carnet ne donne pas de localisation précise ou coordonées.
--Le carnet ne note pas la culture présente, ni la météo.
+-Le carnet ne note pas la culture présente, ni la météo
 
 ## Documents
 

@@ -15,7 +15,7 @@ const FICHIER_DONNEES = 'donnees/observations.json';
 
 function afficherAccueil(){
   console.log('====================================================');
-  console.log('       Fderme pédagogique    ');
+  console.log('       Ferme pédagogique    ');
   console.log('====================================================');
 }
 
@@ -24,7 +24,7 @@ function afficherMenu() {
   console.log('------------------------------MENU------------------');
   console.log('1. Ajouter une observation');
   console.log('2. Lister les observations');
-  console.log('3. Rechercher (point, parcelle, texture');
+  console.log('3. Rechercher (point, parcelle, texture)');
   console.log('4. Trier par pH');
   console.log('5. Synthèse des observations');
   console.log('6. Supprimer une observation');
@@ -36,7 +36,7 @@ function afficherMenu() {
 
 //Choix 1 : poser les cinq questions, vérifier, ajouter, enregistrer.
 async function ajouter(observations) {
-  console.log('---- Ajouter une observaztion ----');
+  console.log('---- Ajouter une observation ----');
 
   const id = await demander('Point observé(ex. S11) : ');
   if(id === null) return;
@@ -152,7 +152,7 @@ function synthèse(observations) {
   }
 
   // Bonus : juste après les lignes par texture.
-const frequente = textureLaOlusFréquente(observation);
+const frequente = textureLaPlusFréquente(observations);
 if (frequente === null) {
   console.log('Texture la plus frequente : aucune donnée');
 }else{

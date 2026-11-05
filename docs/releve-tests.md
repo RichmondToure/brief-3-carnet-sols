@@ -20,11 +20,11 @@
 
 |       Action            |                  Attendu                    |        Obtenu                |      Testeur  |
 | ---                     | ---                                         | ---                          | ---           |
-|   ajout valide          | l'observation doit etre ajoutée             |                              |TOURE Richmond|
-|chaque règle refusée     |     Aucune observation enregistrée          |                              |TOURE Richmond |
-|une recherche introuvable|       introuvable                           |                              |TOURE Richmond|
-|chaque tri (pH croissant)|         tri succès                          |                              |TOURE Richmond|
-|la synthèse              | affichage des statistiqyues de l'observation|                              |TOURE Richmond|
-|un choix inconnu         |        Aucune observation enregistrée       |                              |TOURE Richmond|
+|   ajout valide          | l'observation doit etre ajoutée             |                              |    |
+|chaque règle refusée     |     Aucune observation enregistrée          |                              |     |
+|une recherche introuvable|       introuvable                           |                              |    |
+|chaque tri (pH croissant)|         tri succès                          |                              |    |
+|la synthèse              | affichage des statistiqyues de l'observation|                              |     |
+|un choix inconnu         |        Aucune observation enregistrée       |                              |     |
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️

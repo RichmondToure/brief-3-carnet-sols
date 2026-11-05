@@ -68,12 +68,5 @@
     "texture": "limoneux",
     "pH": 6.5,
     "etatHumidite": "intermédiaire"
-  },
-  {
-    "id": "S11",
-    "parcelle": "P4",
-    "texture": "sableux",
-    "pH": 8,
-    "etatHumidite": "humide"
   }
 ]
